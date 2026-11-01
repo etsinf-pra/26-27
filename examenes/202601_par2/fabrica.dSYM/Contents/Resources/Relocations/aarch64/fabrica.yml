@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mrebollo/devel/pra2526/examenes/202601_par2/fabrica'
+relocations:     []
+...
